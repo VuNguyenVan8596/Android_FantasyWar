@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Vu.NguyenVan/Scenes/F1.unity
+- path: Assets/IslandGenerator/Scenes/Autumn.unity
   isLoaded: 1
   isActive: 1
